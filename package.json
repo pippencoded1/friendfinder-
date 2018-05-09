@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pippencoded1/friendfinder-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pippencoded1/friendfinder-/issues"
+  },
+  "homepage": "https://github.com/pippencoded1/friendfinder-#readme"
+}
